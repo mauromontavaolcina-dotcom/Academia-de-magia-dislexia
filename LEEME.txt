@@ -1,0 +1,13 @@
+Academia de Magia de Neus
+
+1. Descomprime la carpeta.
+2. Abre index.html con el navegador (Chrome, Edge, Firefox o Safari).
+
+Estructura:
+- index.html: la página
+- css/style.css: los estilos
+- js/app.js: la lógica del juego y las palabras
+- img/: imágenes (lumi.svg, castillo.svg)
+
+La fuente Lexend se carga de Google Fonts si hay internet; sin conexión se usa Verdana.
+Para oír las palabras hace falta una voz en español instalada en el dispositivo.
